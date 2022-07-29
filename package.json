@@ -1,0 +1,28 @@
+{
+  "name": "hex2rgb-plus",
+  "private": false,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Convert hex color to rgb.",
+  "keywords": [
+    "typescript",
+    "rgb",
+    "hex"
+  ],
+  "main": "lib/hex2rgb.umd.js",
+  "module": "lib/hex2rgb.es.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib/*"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.4",
+    "vite": "^3.0.0",
+    "vite-plugin-dts": "^1.4.0"
+  }
+}
