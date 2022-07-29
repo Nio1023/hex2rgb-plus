@@ -1,7 +1,7 @@
 {
   "name": "hex2rgb-plus",
   "private": false,
-  "version": "1.0.2",
+  "version": "1.0.4",
   "type": "module",
   "description": "Convert hex color to rgb.",
   "keywords": [
@@ -9,8 +9,8 @@
     "rgb",
     "hex"
   ],
-  "main": "lib/hex2rgb.umd.js",
-  "module": "lib/hex2rgb.es.js",
+  "main": "lib/hex2rgb-plus.umd.js",
+  "module": "lib/hex2rgb-plus.es.js",
   "types": "lib/index.d.ts",
   "files": [
     "lib/*"
