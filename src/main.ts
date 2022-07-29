@@ -1,4 +1,3 @@
-import "./style.css"
 import hex2rgb from "../lib/hex2rgb-plus.es"
 
 console.log(hex2rgb.rgb2hex(0, 130, 195))
