@@ -8,7 +8,7 @@ The script allows you to convert hex color to rgb
 ## Install
 
 ```sh
-npm i hex2rgb-plus
+npm i hex2rgb-plus --save
 ```
 
 ## Usage
