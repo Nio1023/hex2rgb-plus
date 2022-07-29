@@ -11,8 +11,8 @@ export default defineConfig({
   build: {
     lib: {
       entry: resolve(__dirname, "packages/index.ts"),
-      name: "hex2rgb",
-      fileName: format => `hex2rgb.${format}.js`,
+      name: "hex2rgb-plus",
+      fileName: format => `hex2rgb-plus.${format}.js`,
     },
     outDir: resolve(__dirname, "lib"),
   },
