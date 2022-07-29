@@ -5,9 +5,10 @@
   "type": "module",
   "description": "Convert hex color to rgb.",
   "keywords": [
-    "typescript",
     "rgb",
-    "hex"
+    "hex",
+    "hex2rgb",
+    "typescript"
   ],
   "main": "lib/hex2rgb-plus.umd.js",
   "module": "lib/hex2rgb-plus.es.js",
